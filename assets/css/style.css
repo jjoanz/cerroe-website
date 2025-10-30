@@ -261,14 +261,14 @@ ul {
 
 .nav-menu {
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
     align-items: center;
 }
 
 .nav-link {
     font-family: var(--font-primary);
     font-weight: 600;
-    font-size: 0.95rem;
+    font-size: 1.2rem;
     color: var(--primary-teal);
     position: relative;
 }
